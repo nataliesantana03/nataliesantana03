@@ -26,9 +26,6 @@ Hola soy natali <img src="https://raw.githubusercontent.com/iampavangandhi/iampa
 [![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;](https://www.figma.com/)
 
 
-
----
-
 [coursera]: https://www.coursera.org/learn/data-analysis-with-python
 [vscode]: https://code.visualstudio.com/
 [python]: https://www.python.org/doc/
