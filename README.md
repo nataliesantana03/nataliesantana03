@@ -20,7 +20,7 @@ Hola soy natali <img src="https://raw.githubusercontent.com/iampavangandhi/iampa
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]
-![MS Excel](https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
+![Excel](https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
 [![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;][html]
 [![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;][css]
 [![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;](https://www.figma.com/)
